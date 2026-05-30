@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterpender",
+        "uuid": 5913732,
+        "checksum": "0n4xb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
